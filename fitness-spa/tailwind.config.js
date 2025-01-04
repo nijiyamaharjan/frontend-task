@@ -13,7 +13,8 @@ module.exports = {
         darkGrayBg: '#37383C',  
         orangeCustom: '#FF662D',
         brownCustom: '#464646',
-        redCustom: '#FD2331'
+        redCustom: '#FD2331',
+        darkGrayCustom: '#4E4F53'
       },
     },
   },
